@@ -4,15 +4,18 @@ Analysis of  the crowdfunding service, Kickstarter,  using Excel features includ
 # Brief Summary Report - IB
 
 I.	What are three conclusions we can make about Kickstart campaigns given the provided data?
-    1)	Generally, the half of Kickstart campaigns succeeded (a little bit more than a half), the other half failed or was cancelled. 
-    2)	Theater and music campaigns had the higher success rate (roughly two thirds succeeded) than other Kickstart campaign categories.
-    3)	Food campaigns, restaurants and food trucks were failing specifically, in spite of the proportionally large number of people were trying to succeed working on them.
+
+    * Generally, the half of Kickstart campaigns succeeded (a little bit more than a half), the other half failed or was cancelled. 
+    * Theater and music campaigns had the higher success rate (roughly two thirds succeeded) than other Kickstart campaign categories.
+    * Food campaigns, restaurants and food trucks were failing specifically, in spite of the proportionally large number of people were trying to succeed working on them.
 
 II.	What are some limitations of this data set?
-    There were not enough data for most countries in Kickstarter Spreadsheet for making any valid conclusions. Only US campaigns had enough data.
 
-III.What are some other possible tables/graphs that we could create?
-    We could create some pivot tables/graphs to check the duration of campaigns by country and category.
+    * There were not enough data for most countries in Kickstarter Spreadsheet for making any valid conclusions. Only US campaigns had enough data.
+
+III. What are some other possible tables/graphs that we could create?
+
+    * We could create some pivot tables/graphs to check the duration of campaigns by country and category.
 
 
 ## Background
